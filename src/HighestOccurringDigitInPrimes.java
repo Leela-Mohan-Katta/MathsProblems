@@ -1,7 +1,7 @@
 import java.util.Arrays;
 
 public class HighestOccurringDigitInPrimes {
-
+    //https://www.geeksforgeeks.org/problems/find-the-highest-occurring-digit-in-prime-numbers-in-a-range3634/1
     // Helper function to generate primes using Sieve of Eratosthenes
     private static boolean[] sieveOfEratosthenes(int max) {
         boolean[] isPrime = new boolean[max + 1];

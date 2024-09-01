@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class Fountain {
     /*For example, say there are 4 fountains with firing intervals of 2, 3, 1, and 1 respectively,
     then if they fire all together at t=0, they will fire together again at t=6.*/
+    //https://www.hackerearth.com/problem/algorithm/magnificent-fountains/
     /*
     4
         2 4 6 8
